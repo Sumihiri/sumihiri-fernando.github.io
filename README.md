@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sumihiri Fernando
 
 Jag heter Sumihiri Fernando
@@ -25,3 +26,8 @@ Jag heter Sumihiri Fernando
 ## Kontakter
 
 [https://www.linkedin.com/in/sumihiri-mihindukulasooriya]
+=======
+# sumihiri-fernando.github.io
+
+My Github page site for testing actions
+>>>>>>> 8060b7fd0f2280000671c01f5eba2e79798e1857
